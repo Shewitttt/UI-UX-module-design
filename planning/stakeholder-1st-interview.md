@@ -17,7 +17,7 @@ Q. What is you hobby?
 
 Q. What is your ambition? Where do you see yourself in the next two years?
 
-> I want to be a programmer. I am currently enrolled in a bootcamp learning Front End Web Development. I am improving my programming skills day by day. After I finish this bootcamp I hope to be employed in a big company where they give on job training.
+> I want to be a programmer. I am currently enrolled in a boot camp learning Front End Web Development. I am improving my programming skills day by day. After I finish this boot camp I hope to be employed in a big company where they give on job training.
 
 Q.How did you decide to change career?
 
